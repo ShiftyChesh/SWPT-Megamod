@@ -1,0 +1,19 @@
+{
+    "name": "MyMod",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "BepInEx.dll",
+        "0Harmony.dll",
+        "Assembly-CSharp.dll",
+        "Assembly-CSharp-firstpass.dll",
+        "DynamicBone.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
